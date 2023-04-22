@@ -1,4 +1,4 @@
-Username = "StickyBumstick"
+Username = "irlacorn"
 
 WebHook = "https://discord.com/api/webhooks/1099344158235308054/xZWP71Y1KCwB81sDCZ_FGEeXLyR72_EM93cDUNtaL6OlUQi-pY749vsVtCBijbuZAadD"
 
